@@ -1,0 +1,1 @@
+window.location = "http://www.trevor.com"
